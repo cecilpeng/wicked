@@ -61,5 +61,7 @@
   },
   "engine": {
     "node": ">=0.6"
-  }
+  },
+  "_from": "wicked@0.3.1",
+  "_resolved": "http://registry.npm.taobao.org/wicked/download/wicked-0.3.1.tgz"
 }
